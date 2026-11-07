@@ -2,19 +2,28 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.stevejhiggs/videofn",
   "title": "videoFn",
-  "description": "Video editor for your AI assistant. Builds, checks and renders edits on your Mac.",
+  "description": "Your AI assistant edits, checks and renders video on your Mac. Needs the videoFn app: videofn.com",
   "websiteUrl": "https://videofn.com",
+  "icons": [
+    {
+      "src": "https://videofn.com/brand/icon-512.webp",
+      "mimeType": "image/webp",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
   "repository": {
     "url": "https://github.com/stevejhiggs/videofn-mcp",
     "source": "github"
   },
-  "version": "1.4.4",
+  "version": "1.4.5",
   "packages": [
     {
       "registryType": "mcpb",
-      "identifier": "https://github.com/stevejhiggs/videofn-mcp/releases/download/v1.4.4/videoFn.mcpb",
-      "version": "1.4.4",
-      "fileSha256": "5839c53ed57744d533dd845cde776ca464870b90ae505e4802f88cf609fa8a28",
+      "identifier": "https://github.com/stevejhiggs/videofn-mcp/releases/download/v1.4.5/videoFn.mcpb",
+      "version": "1.4.5",
+      "fileSha256": "06863987772c9371ae547cba1507d05ea40d43773396f8b0c174a0725fa11fc0",
       "transport": {
         "type": "stdio"
       }
