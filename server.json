@@ -17,13 +17,13 @@
     "url": "https://github.com/stevejhiggs/videofn-mcp",
     "source": "github"
   },
-  "version": "1.4.5",
+  "version": "1.4.6",
   "packages": [
     {
       "registryType": "mcpb",
-      "identifier": "https://github.com/stevejhiggs/videofn-mcp/releases/download/v1.4.5/videoFn.mcpb",
-      "version": "1.4.5",
-      "fileSha256": "06863987772c9371ae547cba1507d05ea40d43773396f8b0c174a0725fa11fc0",
+      "identifier": "https://github.com/stevejhiggs/videofn-mcp/releases/download/v1.4.6/videoFn.mcpb",
+      "version": "1.4.6",
+      "fileSha256": "a651efc7bf9ee5526973e8a8aaf6e9ccffad2f38971465c5e2d885dcf49255c3",
       "transport": {
         "type": "stdio"
       }
